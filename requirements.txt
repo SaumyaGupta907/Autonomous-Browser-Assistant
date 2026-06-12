@@ -1,0 +1,17 @@
+python-dotenv
+requests
+gradio
+pydantic
+typing-extensions
+
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-experimental
+langgraph
+langsmith
+
+playwright
+wikipedia
+google-search-results
